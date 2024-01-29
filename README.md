@@ -1,5 +1,5 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# PADS 테스트 데이터 분석
+> 반도체의 불량 여부를 판단하는 PADS 테스트 데이터를 활용하여 json 파일로 가공 및 분석함.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
